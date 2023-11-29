@@ -1,3 +1,7 @@
+#INPUT => 7
+
+#OUTPUT =>
+
 def main():
     size = int(input())
     i = 1
