@@ -10,9 +10,9 @@ while True:
     kata = input("Masukkan string: ")
 
     if is_palindrome(kata):
-        print(f"{kata} adalah palindrom.")
+        print(f"{kata} True.")
     else:
-        print(f"{kata} Bukan palindrom.")
+        print(f"{kata} False.")
 
 #if is_palindrome(kata):
     #print("True")
